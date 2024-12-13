@@ -1,4 +1,4 @@
-![Screenshot 2024-12-13 204956](https://github.com/user-attachments/assets/efb73dd6-18cb-4542-8dfc-06776dc20d2d)# Ex.05 Design a Website for Server Side Processing
+# Ex.05 Design a Website for Server Side Processing
 # Date:22/11/2024
 # AIM:
 To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side.
